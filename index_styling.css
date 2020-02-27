@@ -1,9 +1,18 @@
+body {
+
+}
+
 .container {
   overflow: hidden;
   margin: auto;
   width: 80%;
-  font-family: Rubik;
+  max-width: inherit;
+  font-family: SegoeUI-SemiBold-final,Segoe UI Semibold,SegoeUI-Regular-final,Segoe UI,"Segoe UI Web (West European)",Segoe,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,Tahoma,Helvetica,Arial,sans-serif;
   color: black;
+}
+
+header {
+  text-align: left;
 }
 
 ul {
